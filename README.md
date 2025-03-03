@@ -43,8 +43,5 @@ The user interface is built with **Gradio**, ensuring a simple and intuitive exp
 <img width="1389" alt="image" src="https://github.com/user-attachments/assets/f4e89a67-2255-4582-9bc5-3cbf8c261215" />
 
 
----
 
-## 📞 Contact
-For any questions or feedback, reach out via GitHub Issues or email at **your-email@example.com**.
 
