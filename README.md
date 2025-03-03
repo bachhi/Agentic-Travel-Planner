@@ -1,4 +1,3 @@
-<img width="1389" alt="image" src="https://github.com/user-attachments/assets/f4e89a67-2255-4582-9bc5-3cbf8c261215" />
 # 🌍 AI-Powered Travel Planner
 
 ## Overview
@@ -40,8 +39,8 @@ The user interface is built with **Gradio**, ensuring a simple and intuitive exp
 - Expand integrations for transportation and local events.
 - Improve UI with interactive maps and visuals.
 
----
-
+## Output :
+<img width="1389" alt="image" src="https://github.com/user-attachments/assets/f4e89a67-2255-4582-9bc5-3cbf8c261215" />
 
 
 ---
